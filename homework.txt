@@ -1,0 +1,21 @@
+Question 1: the PirateContainer.
+
+Question 2: useEffect, triggered when the page first loads.
+
+Question 3: in the helpers folder.
+
+Question 4: the get method.
+
+Question 5: the pirateNodes function returns each individual component to form the list.
+
+
+Question 1: PirateContainer line 56/57.
+
+Question 2: To stop an error occurring when the page trying retrieve properties of an undefined.
+
+Question 3: the function needs to exist on the same level as the state.
+
+
+Question 1: Creates a single promise so as not to act until all 3 promises are resolved.
+
+Question 2: form
